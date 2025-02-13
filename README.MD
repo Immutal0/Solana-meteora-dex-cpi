@@ -156,6 +156,6 @@ Before you begin, ensure you have the following installed:
 ## Contact
 
 For any questions or assistance, feel free to reach out:
-- **Telegram:** [@Immutal0](https://t.me/Immutal0)
+- **Telegram:** [@Immutal0_](https://t.me/Immutal0_)
 - **Twitter:** [@Immutal0](https://x.com/Immutal0)
 
